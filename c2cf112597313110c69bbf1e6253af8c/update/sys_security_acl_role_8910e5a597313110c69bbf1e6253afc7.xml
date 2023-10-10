@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-10 06:57:04</sys_created_on>
+        <sys_id>8910e5a597313110c69bbf1e6253afc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_927795_my_app_my_table.x_927795_my_app.acl for my app</sys_name>
+        <sys_package display_value="my app" source="x_927795_my_app">c2cf112597313110c69bbf1e6253af8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my app">c2cf112597313110c69bbf1e6253af8c</sys_scope>
+        <sys_security_acl display_value="x_927795_my_app_my_table">0110e5a597313110c69bbf1e6253afc5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8910e5a597313110c69bbf1e6253afc7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-10 06:57:04</sys_updated_on>
+        <sys_user_role display_value="x_927795_my_app.acl for my app" name="x_927795_my_app.acl for my app">19efdd6597313110c69bbf1e6253aff8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
